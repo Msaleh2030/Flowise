@@ -53,7 +53,7 @@
         "turbo": "1.10.16",
         "typescript": "^5.4.5"
     },
-    "pnpm": {
+    "npm": {
         "onlyBuiltDependencies": [
             "faiss-node",
             "sqlite3"
@@ -64,7 +64,7 @@
     },
     "engines": {
         "node": ">=18.15.0 <19.0.0 || ^20",
-        "pnpm": ">=9"
+        "npm": ">=9"
     },
     "resolutions": {
         "@google/generative-ai": "^0.15.0",
